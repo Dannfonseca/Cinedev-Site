@@ -39,7 +39,3 @@ O projeto consome dados mockados de um jsonserver hospedado no seguinte link htt
 -Gabriel Gomes
 <!-- Larissa -->
 
-<br>
-#� �C�i�n�e�d�e�v�-�S�i�t�e�
-�
-�# Cinedev-Site
