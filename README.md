@@ -1,7 +1,7 @@
-# Terceiro projeto em grupo - Cinedev
+# Terceiro projeto em grupo - Lado C
 O objetivo do projeto é abrigar um website de cinema que trará informações das filiais e dos filmes em cartaz, além disso, também contendo uma seção de sugestões onde será de total domínio dos clientes para expor suas ideias e ajudar nas melhorias do cinema.
 
-A webpage pode ser acessada por esse link: https://cinedev-site.vercel.app/.
+A webpage pode ser acessada por esse link (link quando tiver online)
 
 <hr>
 
@@ -24,6 +24,7 @@ Podem ser utilizados os seguintes métodos na rota /sugestões
 - React DOM; 
 - React Router DOM;
 - React Icons.
+- React Bootstrap.
 
 <hr>
 
@@ -33,9 +34,9 @@ O projeto consome dados mockados de um jsonserver hospedado no seguinte link htt
 <hr>
 
 ## Integrantes
--Daniel Nascimento;
--Dailla Lucia;
--Thayna Lopes;
+-Daniel Nascimento.
+-Dailla Lucia.
+-Thayna Lopes.
 -Gabriel Gomes.
 <!-- Larissa -->
 

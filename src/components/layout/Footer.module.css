@@ -3,8 +3,6 @@
   color: #f3f3e8;
 }
 
-
-
 /* REDES SOCIAIS */
 
 .socialList {
@@ -12,7 +10,6 @@
   display: flex;
   flex-direction: row;
   margin-top: 20px;
-
 }
 
 .socialList li {
@@ -68,9 +65,7 @@
   color: #FFA300;
 }
 
-
 /* PARTE DOS CRÉDITOS */
-
 
 .copyRightDiv {
   background-color: #342e2e;
@@ -89,7 +84,6 @@
 .containerFooter {
   padding: 30px 30px 30px 30px;
   background-color: #231f1f;
-
 }
 
 .rowFooter {
@@ -130,16 +124,13 @@
 .footerColLink:hover {
   color: #FFA300;
   padding-left: 10px;
-
 }
-
 
 /* NO MOBILE */
 
 @media (max-width:800px) {
   .footerCol {
     margin-bottom: 30px;
-
   }
 
   @media (max-width:600px) {

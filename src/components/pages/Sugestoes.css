@@ -8,7 +8,7 @@
     width: 1350px;
     height: 800px auto;
     padding: 50px 45px 50px 45px;
-
+    margin-left: 20%;
 }
 
 .homeDiv h1 {
@@ -48,7 +48,6 @@
     color: #FFA300;
     text-shadow: 1px 1px 1px #121212;
     padding-left: 10px;
-
 }
 
 .post {
@@ -57,5 +56,5 @@
     margin-bottom: 1.5rem;
     padding-bottom: 1rem;
     border-bottom: 2px solid #524848;
-
 }
+

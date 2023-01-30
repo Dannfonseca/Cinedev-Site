@@ -17,11 +17,11 @@ function App() {
       <Navbar />
       <Container customClass="min-height">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<Home />} />
-          <Route path="/filmes" element={<Filmes />} />
-          <Route path="/filial" element={<Filial3 />} />
-          <Route path="/ingressos" element={<Ingressos />} />
-          <Route path="/sugestoes" element={<Sugestoes />} />
+          <Route path="/" element={<Home/>} />
+          <Route path="/filmes" element={<Filmes/>}/>
+          <Route path="/filial" element={<Filial3/>}/>
+          <Route path="/ingressos" element={<Ingressos/>}/>
+          <Route path="/sugestoes" element={<Sugestoes/>}/>
         </Routes>
       </Container>
       <Footer />

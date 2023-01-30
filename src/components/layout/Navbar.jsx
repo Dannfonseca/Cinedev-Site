@@ -11,7 +11,7 @@ function Navbar() {
         </Link>
         <ul className={styles.listNav}>
           <li className={styles.item}><Link to="/filmes">Filmes</Link></li>
-          <li className={styles.item}><Link to="/filial">Filial</Link></li>
+          <li className={styles.item}><Link to="/filial">Cinemas</Link></li>
           <li className={styles.item}><Link to="/ingressos">Ingressos</Link></li>
           <li className={styles.item}><Link to="/sugestoes">Sugestões</Link></li>
         </ul>

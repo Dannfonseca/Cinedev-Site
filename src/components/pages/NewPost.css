@@ -35,13 +35,11 @@ form {
     border-radius: 5px;
     margin-top: 2%;
     margin-bottom: 2%;
-
 }
 
 .formControl input::placeholder,
 .formControl textarea::placeholder {
     color: rgba(116, 74, 0, 0.463);
-
 }
 
 .formControl button {
@@ -58,5 +56,4 @@ form {
 
 .formControl button:hover {
     color: #FFA300;
-
 }
