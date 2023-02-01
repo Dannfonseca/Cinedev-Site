@@ -19,13 +19,13 @@ function Home() {
           <h1> Sobre Nós</h1>
           <p className="sobre" id="sobreHome">
             {" "}
-            Somos uma empresa familiar que pensamos na proposta de trazer filmes
-            antigos e clássicos de volta as telonas. Existe uma demanda grande
-            do mercado por cinemas que repetem filmes recentes ou mesmo antigos,
+            Somos uma empresa criada por programadores que pensaram na proposta de trazer filmes
+            sobre programação e tecnologia. Existe uma demanda grande
+            do mercado te tecnologia por cinemas nichados na área
             e é exatamente esse público que visamos. Trazendo filmes premiados e
-            um catálogo diferente em cada mês, além dos nossos eventos mensais e
-            semestrais. Venha participar dessa aventura espetacular em rever
-            filmes incríveis e experiências nostálgicas!
+            um catálogo diferente a cada mês, além dos nossos eventos mensais e
+            semestrais. Venha participar dessa aventura tecnológica em ver
+            filmes incríveis e premiados!
           </p>
         </div>
       </div>
