@@ -8,6 +8,6 @@ width: 99.98%;
     font-size: 19px;
 }
 
-.homeDiv {
-    margin-left: auto
+div .homeDiv {
+    margin: auto;
 }
