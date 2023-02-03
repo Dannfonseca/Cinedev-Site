@@ -1,7 +1,7 @@
 # Terceiro projeto em grupo - Cinedev
 O objetivo do projeto é abrigar um website de cinema que trará informações das filiais e dos filmes em cartaz, além disso, também contendo uma seção de sugestões onde será de total domínio dos clientes para expor suas ideias e ajudar nas melhorias do cinema.
 
-A webpage pode ser acessada por esse link: cinedev-site.vercel.app.
+A webpage pode ser acessada por esse link: https://cinedev-site.vercel.app.
 
 <hr>
 
