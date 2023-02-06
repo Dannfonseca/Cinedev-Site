@@ -13,7 +13,7 @@ function Home() {
     >
       <div className={styles.homeDiv}>
         <Link to="/filmes">
-          <img id="fotoHome" src={fotoHome} />
+          <img id="fotoHome" src="https://cultura.uol.com.br/upload/tvcultura/noticias/20201017080002_6minutos_shutterstock-204105922-1440x1080.jpg" width='1920' height='700'/>
         </Link>
         <div className="homeDiv">
           <h1> Sobre Nós</h1>
