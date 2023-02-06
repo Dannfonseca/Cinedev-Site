@@ -1,6 +1,7 @@
 import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import styles from './Footer.module.css';
+import ModalBt from './ModalBt';
 
 function Footer() {
     return (
@@ -31,12 +32,12 @@ function Footer() {
 
                     <div className={styles.socialListDiv}>
                         <div className={styles.footerCol}>
-                            <h4> Promoções? </h4>
-                            <Link className={styles.footerColLinkDif}>Descontos? </Link>
+                            <h4>informações? </h4>
+                            <Link className={styles.footerColLinkDif}>Dúvidas? </Link>
                             <div className={styles.formSub}>
                                 <form>
                                     <input type="email" placeholder='Digite seu e-mail e receba!' required />
-                                    <button>Assinar</button>
+                                    <ModalBt/>
                                 </form>
                             </div>
                         </div>

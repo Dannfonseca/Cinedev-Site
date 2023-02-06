@@ -10,6 +10,7 @@ import Home from './components/pages/Home';
 import { AnimatePresence } from 'framer-motion';
 import Sugestoes from './components/pages/Sugestoes';
 
+
 function App() {
   const location = useLocation();
   return (
@@ -22,6 +23,8 @@ function App() {
           <Route path="/filial" element={<Filial3/>}/>
           <Route path="/ingressos" element={<Ingressos/>}/>
           <Route path="/sugestoes" element={<Sugestoes/>}/>
+          
+
         </Routes>
       </Container>
       <Footer />
